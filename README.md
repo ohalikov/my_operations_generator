@@ -2,7 +2,7 @@
 
 ## install FASTAPI
 
-    https://bobbyhadz.com/blog/python-no-module-named-fastapi
+    [link to guid](https://bobbyhadz.com/blog/python-no-module-named-fastapi)
 
 ## OPEN TERMINAL
 
@@ -13,7 +13,7 @@
 
     http://127.0.0.1:8500/operations/20
 
-## Example JSON
+## Random example JSON
 
 [
 {"left_operand":7,"right_operand":5,"operator":"division","result":1,"division_remainder":2},
