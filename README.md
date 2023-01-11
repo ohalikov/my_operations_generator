@@ -2,7 +2,7 @@
 
 ## install FASTAPI
 
-    [link to guid](https://bobbyhadz.com/blog/python-no-module-named-fastapi)
+[link to guid](https://bobbyhadz.com/blog/python-no-module-named-fastapi)
 
 ## OPEN TERMINAL
 
